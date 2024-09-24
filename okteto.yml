@@ -1,0 +1,2 @@
+deploy:
+  - echo "COMPONENT_NAME=mycomponent" >> $OKTETO_ENV
